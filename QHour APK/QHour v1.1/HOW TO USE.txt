@@ -1,0 +1,24 @@
+QHour v1.1 
+HOW TO USE
+
+1. Upon first installation of app, please allow storage permissions for it. (Settings -> Apps -> QHour -> Storage) 
+
+2. Opening the app will initiate a pop-up asking for a file name. This will be the name of the csv the app will be saving to. Take care not to include any special characters except underscores (_). Perhaps a Date and time?
+
+3. Once filename is entered (make sure this is different from other previous file names as it will overwrite if they are the same), you can freely scan using any of the 3 scanning buttons on the Kaicom K7. These buttons are situated on the sides of the scanner and in the middle below the screen. All scanning buttons are orange.
+
+4. Once scanned, the data will be sent to the csv file to be saved and to the lower part of the app that says: No., Name, and ID. This lower part will show you the last 10 instances of your scan.
+
+5. If finished scanning all IDs, you can swipe from left to right to access the side menu. There are 3 buttons on this menu, namely Share, Send to Site, and Send Feedback.
+
+	-> Share opens a menu from the bottom allowing you to choose the medium from which you will send the file where the scans have been saved. We recommend a shared folder in OneDrive. Again, please take care that no two file names are the same.
+
+	-> Send to Site is currently not yet available and will hopefully be integrated in the next patches.
+
+	-> Send Feedback will open an emailing app on the Kaicon K7 with the receipient and subject filled in. In the body of the email there will be some text indicating where you can type in your feedback. 
+
+6. To exit the app, press the back button once. A pop-up will appear and if you are sure to close, press the left button labeled "Yes"
+
+7. Upon reopening the app, this would initiate a new save file csv and prompt for you to enter a file name once more.
+
+If there are any questions, feel free to message or email at t.delez@greatdealscorp.com 
