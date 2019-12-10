@@ -1,0 +1,510 @@
+ReadNameCounter
+SetNameData
+SaveNameData
+abbycunan
+ClickSalesTab
+ClickSalesTab
+SearchBoxClear
+SearchBoxPaste
+it got to here
+ClickChatTab
+CheckChatName
+CopyChatName
+Name1:  abbycunan  with len  9  is not equal to
+name2  abbycunanlopez  with len  14
+ClickChatTab
+CheckChatName
+CopyChatName
+n:  1
+Finding Chat Icon Test (< 3)
+ClickSalesTab
+FindChatIcon
+ClickSalesTab
+CanFindChatIcon
+Name1:  abbycunan  with len  9  is not equal to
+name2  abbycunanlopez  with len  14
+ClickChatTab
+CheckChatName
+CopyChatName
+n:  2
+Finding Chat Icon Test (< 3)
+ClickSalesTab
+FindChatIcon
+ClickSalesTab
+CanFindChatIcon
+Name1:  abbycunan  with len  9  is not equal to
+name2  abbycunanlopez  with len  14
+ClickChatTab
+CheckChatName
+CopyChatName
+n:  3
+Finding Chat Icon Test (> 3)
+ClickSalesTab
+FindRSearch
+ClickSalesTab
+SetNameData
+SaveNameData
+ClickHighlightedTextChatButton
+Uncaught error...
+'NoneType' object is not subscriptable
+LogSkipped
+LogError
+Name1:  abbycunan  with len  9  is not equal to
+name2  abbycunanlopez  with len  14
+ClickChatTab
+CheckChatName
+CopyChatName
+n:  4
+Finding Chat Icon Test (> 3)
+ClickSalesTab
+FindRSearch
+ClickSalesTab
+SetNameData
+SaveNameData
+ClickHighlightedTextChatButton
+Uncaught error...
+'NoneType' object is not subscriptable
+LogSkipped
+LogError
+Name1:  abbycunan  with len  9  is not equal to
+name2  abbycunanlopez  with len  14
+ClickChatTab
+CheckChatName
+CopyChatName
+n:  5
+Finding Chat Icon Test (> 3)
+ClickSalesTab
+FindRSearch
+ClickSalesTab
+SetNameData
+SaveNameData
+ClickHighlightedTextChatButton
+Uncaught error...
+'NoneType' object is not subscriptable
+LogSkipped
+LogError
+Name1:  abbycunan  with len  9  is not equal to
+name2  abbycunanlopez  with len  14
+ClickChatTab
+CheckChatName
+CopyChatName
+n:  6
+Finding Chat Icon Test (> 3)
+ClickSalesTab
+FindRSearch
+ClickSalesTab
+SetNameData
+SaveNameData
+ClickHighlightedTextChatButton
+Uncaught error...
+'NoneType' object is not subscriptable
+LogSkipped
+LogError
+Name1:  abbycunan  with len  9  is not equal to
+name2  abbycunanlopez  with len  14
+ClickChatTab
+CheckChatName
+CopyChatName
+n:  7
+Finding Chat Icon Test (> 3)
+ClickSalesTab
+FindRSearch
+ClickSalesTab
+SetNameData
+SaveNameData
+ClickHighlightedTextChatButton
+Uncaught error...
+'NoneType' object is not subscriptable
+LogSkipped
+LogError
+Name1:  abbycunan  with len  9  is not equal to
+name2  abbycunanlopez  with len  14
+ClickChatTab
+CheckChatName
+CopyChatName
+n:  8
+Finding Chat Icon Test (> 3)
+ClickSalesTab
+FindRSearch
+ClickSalesTab
+SetNameData
+SaveNameData
+ClickHighlightedTextChatButton
+Uncaught error...
+'NoneType' object is not subscriptable
+LogSkipped
+LogError
+Name1:  abbycunan  with len  9  is not equal to
+name2  abbycunanlopez  with len  14
+ClickChatTab
+CheckChatName
+CopyChatName
+n:  9
+Finding Chat Icon Test (> 3)
+ClickSalesTab
+FindRSearch
+ClickSalesTab
+SetNameData
+SaveNameData
+ClickHighlightedTextChatButton
+Uncaught error...
+'NoneType' object is not subscriptable
+LogSkipped
+LogError
+Name1:  abbycunan  with len  9  is not equal to
+name2  abbycunanlopez  with len  14
+ClickChatTab
+CheckChatName
+CopyChatName
+n:  10
+Finding Chat Icon Test (> 3)
+ClickSalesTab
+FindRSearch
+ClickSalesTab
+SetNameData
+SaveNameData
+ClickHighlightedTextChatButton
+Uncaught error...
+'NoneType' object is not subscriptable
+LogSkipped
+LogError
+Name1:  abbycunan  with len  9  is not equal to
+name2  abbycunanlopez  with len  14
+ClickChatTab
+CheckChatName
+CopyChatName
+n:  11
+Finding Chat Icon Test (> 3)
+ClickSalesTab
+FindRSearch
+ClickSalesTab
+SetNameData
+SaveNameData
+ClickHighlightedTextChatButton
+Uncaught error...
+'NoneType' object is not subscriptable
+LogSkipped
+LogError
+Name1:  abbycunan  with len  9  is not equal to
+name2  abbycunanlopez  with len  14
+ClickChatTab
+CheckChatName
+CopyChatName
+n:  12
+Finding Chat Icon Test (> 3)
+ClickSalesTab
+FindRSearch
+ClickSalesTab
+SetNameData
+SaveNameData
+ClickHighlightedTextChatButton
+Uncaught error...
+'NoneType' object is not subscriptable
+LogSkipped
+LogError
+Name1:  abbycunan  with len  9  is not equal to
+name2  abbycunanlopez  with len  14
+ClickChatTab
+CheckChatName
+CopyChatName
+n:  13
+Finding Chat Icon Test (> 3)
+ClickSalesTab
+FindRSearch
+ClickSalesTab
+SetNameData
+SaveNameData
+ClickHighlightedTextChatButton
+Uncaught error...
+'NoneType' object is not subscriptable
+LogSkipped
+LogError
+Name1:  abbycunan  with len  9  is not equal to
+name2  abbycunanlopez  with len  14
+ClickChatTab
+CheckChatName
+CopyChatName
+n:  14
+Finding Chat Icon Test (> 3)
+ClickSalesTab
+FindRSearch
+ClickSalesTab
+SetNameData
+SaveNameData
+ClickHighlightedTextChatButton
+Uncaught error...
+'NoneType' object is not subscriptable
+LogSkipped
+LogError
+Name1:  abbycunan  with len  9  is not equal to
+name2  abbycunanlopez  with len  14
+ClickChatTab
+CheckChatName
+CopyChatName
+n:  15
+Finding Chat Icon Test (> 3)
+ClickSalesTab
+FindRSearch
+ClickSalesTab
+SetNameData
+SaveNameData
+ClickHighlightedTextChatButton
+Uncaught error...
+'NoneType' object is not subscriptable
+LogSkipped
+LogError
+Name1:  abbycunan  with len  9  is not equal to
+name2  abbycunanlopez  with len  14
+ClickChatTab
+CheckChatName
+CopyChatName
+n:  16
+Finding Chat Icon Test (> 3)
+ClickSalesTab
+FindRSearch
+ClickSalesTab
+SetNameData
+SaveNameData
+ClickHighlightedTextChatButton
+Uncaught error...
+'NoneType' object is not subscriptable
+LogSkipped
+LogError
+Name1:  abbycunan  with len  9  is not equal to
+name2  abbycunanlopez  with len  14
+ClickChatTab
+CheckChatName
+CopyChatName
+n:  17
+Finding Chat Icon Test (> 3)
+ClickSalesTab
+FindRSearch
+ClickSalesTab
+SetNameData
+SaveNameData
+ClickHighlightedTextChatButton
+Uncaught error...
+'NoneType' object is not subscriptable
+LogSkipped
+LogError
+Name1:  abbycunan  with len  9  is not equal to
+name2  abbycunanlopez  with len  14
+ClickChatTab
+CheckChatName
+CopyChatName
+n:  18
+Finding Chat Icon Test (> 3)
+ClickSalesTab
+FindRSearch
+ClickSalesTab
+SetNameData
+SaveNameData
+ClickHighlightedTextChatButton
+Uncaught error...
+'NoneType' object is not subscriptable
+LogSkipped
+LogError
+Name1:  abbycunan  with len  9  is not equal to
+name2  abbycunanlopez  with len  14
+ClickChatTab
+CheckChatName
+CopyChatName
+n:  19
+Finding Chat Icon Test (> 3)
+ClickSalesTab
+FindRSearch
+ClickSalesTab
+SetNameData
+SaveNameData
+ClickHighlightedTextChatButton
+Uncaught error...
+'NoneType' object is not subscriptable
+LogSkipped
+LogError
+Name1:  abbycunan  with len  9  is not equal to
+name2  abbycunanlopez  with len  14
+ClickChatTab
+CheckChatName
+CopyChatName
+n:  20
+Finding Chat Icon Test (> 3)
+ClickSalesTab
+FindRSearch
+ClickSalesTab
+SetNameData
+SaveNameData
+ClickHighlightedTextChatButton
+Uncaught error...
+'NoneType' object is not subscriptable
+LogSkipped
+LogError
+Name1:  abbycunan  with len  9  is not equal to
+name2  abbycunanlopez  with len  14
+ClickChatTab
+CheckChatName
+CopyChatName
+n:  21
+Finding Chat Icon Test (> 3)
+ClickSalesTab
+FindRSearch
+ClickSalesTab
+SetNameData
+SaveNameData
+ClickHighlightedTextChatButton
+Uncaught error...
+'NoneType' object is not subscriptable
+LogSkipped
+LogError
+Name1:  abbycunan  with len  9  is not equal to
+name2  abbycunanlopez  with len  14
+ClickChatTab
+CheckChatName
+CopyChatName
+n:  22
+Finding Chat Icon Test (> 3)
+ClickSalesTab
+FindRSearch
+ClickSalesTab
+SetNameData
+SaveNameData
+ClickHighlightedTextChatButton
+Uncaught error...
+'NoneType' object is not subscriptable
+LogSkipped
+LogError
+Name1:  abbycunan  with len  9  is not equal to
+name2  abbycunanlopez  with len  14
+ClickChatTab
+CheckChatName
+CopyChatName
+n:  23
+Finding Chat Icon Test (> 3)
+ClickSalesTab
+FindRSearch
+ClickSalesTab
+SetNameData
+SaveNameData
+ClickHighlightedTextChatButton
+Uncaught error...
+'NoneType' object is not subscriptable
+LogSkipped
+LogError
+Name1:  abbycunan  with len  9  is not equal to
+name2  abbycunanlopez  with len  14
+ClickChatTab
+CheckChatName
+CopyChatName
+n:  24
+Finding Chat Icon Test (> 3)
+ClickSalesTab
+FindRSearch
+ClickSalesTab
+SetNameData
+SaveNameData
+ClickHighlightedTextChatButton
+Uncaught error...
+'NoneType' object is not subscriptable
+LogSkipped
+LogError
+Name1:  abbycunan  with len  9  is not equal to
+name2  abbycunanlopez  with len  14
+ClickChatTab
+CheckChatName
+CopyChatName
+n:  25
+Finding Chat Icon Test (> 3)
+ClickSalesTab
+FindRSearch
+ClickSalesTab
+SetNameData
+SaveNameData
+ClickHighlightedTextChatButton
+Uncaught error...
+'NoneType' object is not subscriptable
+LogSkipped
+LogError
+Name1:  abbycunan  with len  9  is not equal to
+name2  abbycunanlopez  with len  14
+ClickChatTab
+CheckChatName
+CopyChatName
+n:  26
+Finding Chat Icon Test (> 3)
+ClickSalesTab
+FindRSearch
+ClickSalesTab
+SetNameData
+SaveNameData
+ClickHighlightedTextChatButton
+Uncaught error...
+'NoneType' object is not subscriptable
+LogSkipped
+LogError
+Name1:  abbycunan  with len  9  is not equal to
+name2  abbycunanlopez  with len  14
+ClickChatTab
+CheckChatName
+CopyChatName
+n:  27
+Finding Chat Icon Test (> 3)
+ClickSalesTab
+FindRSearch
+ClickSalesTab
+SetNameData
+SaveNameData
+ClickHighlightedTextChatButton
+Uncaught error...
+'NoneType' object is not subscriptable
+LogSkipped
+LogError
+Name1:  abbycunan  with len  9  is not equal to
+name2  abbycunanlopez  with len  14
+ClickChatTab
+CheckChatName
+CopyChatName
+n:  28
+Finding Chat Icon Test (> 3)
+ClickSalesTab
+FindRSearch
+ClickSalesTab
+SetNameData
+SaveNameData
+ClickHighlightedTextChatButton
+Uncaught error...
+'NoneType' object is not subscriptable
+LogSkipped
+LogError
+Name1:  abbycunan  with len  9  is not equal to
+name2  abbycunanlopez  with len  14
+ClickChatTab
+CheckChatName
+CopyChatName
+n:  29
+Finding Chat Icon Test (> 3)
+ClickSalesTab
+FindRSearch
+ClickSalesTab
+SetNameData
+SaveNameData
+ClickHighlightedTextChatButton
+Uncaught error...
+'NoneType' object is not subscriptable
+LogSkipped
+LogError
+Name1:  abbycunan  with len  9  is not equal to
+name2  abbycunanlopez  with len  14
+ClickChatTab
+CheckChatName
+CopyChatName
+n:  30
+Finding Chat Icon Test (> 3)
+ClickSalesTab
+FindRSearch
+ClickSalesTab
+SetNameData
+SaveNameData
+ClickHighlightedTextChatButton
+Uncaught error...
+'NoneType' object is not subscriptable
+LogSkipped
+LogError
